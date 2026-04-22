@@ -1,0 +1,112 @@
+{
+  "user": {
+    "locationLabel": "Location",
+    "locationValue": "Bilzen, Tanjungbalai"
+  },
+  "promo": {
+    "tag": "Promo",
+    "headline": "Buy one get\nOne FREE",
+    "supportingText": "Freshly brewed coffee to power up your day."
+  },
+  "categories": [
+    "All Coffee",
+    "Machiato",
+    "Latte",
+    "Americano"
+  ],
+  "products": [
+    {
+      "id": "caffe-mocha",
+      "imageKey": "caffe-mocha",
+      "name": "Caffe Mocha",
+      "subtitle": "Deep Foam",
+      "category": "Machiato",
+      "price": 4.53,
+      "rating": 4.8,
+      "reviews": 230,
+      "description": "A cappuccino is an approximately 150 ml beverage, with espresso coffee and steamed milk foam blended for a balanced and creamy texture.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "accent": "#2A1C18",
+      "foam": "#E8C68B"
+    },
+    {
+      "id": "flat-white",
+      "imageKey": "flat-white",
+      "name": "Flat White",
+      "subtitle": "Espresso",
+      "category": "Latte",
+      "price": 3.53,
+      "rating": 4.6,
+      "reviews": 178,
+      "description": "Flat white combines rich espresso with velvety microfoam for a smoother taste and a lighter finish.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "accent": "#5B3B24",
+      "foam": "#F2D39A"
+    },
+    {
+      "id": "caramel-brew",
+      "imageKey": "caramel-brew",
+      "name": "Caramel Brew",
+      "subtitle": "Cold Brew",
+      "category": "Americano",
+      "price": 4.15,
+      "rating": 4.7,
+      "reviews": 142,
+      "description": "Cold brewed coffee layered with caramel sweetness and a mellow finish for easy sipping.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "accent": "#6F4A2F",
+      "foam": "#DCA35E"
+    },
+    {
+      "id": "classic-latte",
+      "imageKey": "classic-latte",
+      "name": "Classic Latte",
+      "subtitle": "Smooth Milk",
+      "category": "Latte",
+      "price": 4.25,
+      "rating": 4.5,
+      "reviews": 196,
+      "description": "A classic latte with silky steamed milk, soft foam and a rounded espresso flavor.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "accent": "#7B5B46",
+      "foam": "#E7CFAB"
+    }
+  ],
+  "order": {
+    "defaultItemId": "caffe-mocha",
+    "addressTitle": "Delivery Address",
+    "addressLine1": "Jl. Kpg Sutoyo",
+    "addressLine2": "Kpg. Sutoyo No. 620, Bilzen, Tanjungbalai.",
+    "discountTitle": "1 Discount is Applies",
+    "deliveryFee": 1,
+    "deliveryFeeOriginal": 2,
+    "paymentMethod": "Cash/Wallet",
+    "walletBalance": 5.53
+  },
+  "delivery": {
+    "etaMinutes": 10,
+    "destination": "Jl. Kpg Sutoyo",
+    "statusTitle": "Delivered your order",
+    "statusMessage": "We will deliver your goods to you in the shortest possible time.",
+    "courier": {
+      "name": "Brooklyn Simmons",
+      "role": "Personal Courier"
+    }
+  }
+}
